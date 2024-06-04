@@ -1,7 +1,8 @@
 from unittest import TestCase
 
-from binary_tree import *
-from binary_tree_right_side_view_199 import Solution
+from leetcode150.binary_tree_bfs.binary_tree_right_side_view_199 import Solution
+
+from leetcode150.binary_tree import *
 
 
 class TestSolution(TestCase):

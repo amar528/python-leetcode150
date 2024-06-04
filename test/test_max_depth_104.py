@@ -1,7 +1,8 @@
 from unittest import TestCase
 
-from max_depth_104 import Solution
-from binary_tree import *
+from leetcode150.binary_tree_general.max_depth_104 import Solution
+
+from leetcode150.binary_tree import *
 
 
 class TestSolution(TestCase):

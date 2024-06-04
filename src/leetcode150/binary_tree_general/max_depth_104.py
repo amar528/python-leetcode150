@@ -1,5 +1,5 @@
 from typing import Optional
-from binary_tree import TreeNode
+from leetcode150.binary_tree import TreeNode
 
 
 class Solution:

@@ -1,5 +1,6 @@
 from unittest import TestCase
-from merge_sorted_array_88 import Solution
+
+from leetcode150.array_string.merge_sorted_array_88 import Solution
 
 
 class TestSolution(TestCase):
@@ -15,7 +16,7 @@ class TestSolution(TestCase):
         self.assertListEqual([1, 2, 2, 3, 5, 6], nums1)
 
     def test_merge_case2(self):
-        nums1 = [1,2,4,5,6,0]
+        nums1 = [1, 2, 4, 5, 6, 0]
         m = 5
         nums2 = [3]
         n = 1

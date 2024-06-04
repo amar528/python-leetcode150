@@ -1,7 +1,8 @@
 from unittest import TestCase
 
-from binary_tree import *
-from mini_abs_diff_530 import Solution
+from leetcode150.binary_search_tree.mini_abs_diff_530 import Solution
+
+from leetcode150.binary_tree import *
 
 
 class TestSolution(TestCase):

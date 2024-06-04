@@ -1,6 +1,5 @@
 import collections
-from typing import Optional, List
-from binary_tree import *
+from leetcode150.binary_tree import *
 
 
 class Solution:

@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from matrix.valid_sudoko_36 import Solution
+from leetcode150.matrix.valid_sudoko_36 import Solution
 
 
 class TestSolution(TestCase):

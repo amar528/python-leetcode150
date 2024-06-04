@@ -1,6 +1,7 @@
 from unittest import TestCase
-from link_list_cycle_141 import Solution
-from list_node import *
+
+from leetcode150.linked_list.link_list_cycle_141 import Solution
+from leetcode150.linked_list.list_node import *
 
 
 class TestSolution(TestCase):

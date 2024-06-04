@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from summary_ranges_228 import Solution
+from leetcode150.intervals.summary_ranges_228 import Solution
 
 
 class TestSolution(TestCase):

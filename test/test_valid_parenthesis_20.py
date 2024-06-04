@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from stack.valid_parenthesis_20 import Solution
+from leetcode150.stack.valid_parenthesis_20 import Solution
 
 
 class TestSolution(TestCase):

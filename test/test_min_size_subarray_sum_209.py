@@ -1,5 +1,6 @@
 from unittest import TestCase
-from min_size_subarray_sum_209 import Solution
+
+from leetcode150.sliding_window.min_size_subarray_sum_209 import Solution
 
 
 class TestSolution(TestCase):

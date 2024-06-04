@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from ransom_note_383 import Solution
+from leetcode150.hashmap.ransom_note_383 import Solution
 
 
 class TestSolution(TestCase):

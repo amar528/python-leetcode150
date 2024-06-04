@@ -1,6 +1,6 @@
 from typing import Optional
 
-from list_node import ListNode
+from leetcode150.linked_list.list_node import ListNode
 
 
 class Solution:
