@@ -14,7 +14,7 @@ class TestSolution(TestCase):
 
         self.assertListEqual([1, 2, 2, 3, 5, 6], nums1)
 
-    def test_merge_case4(self):
+    def test_merge_case2(self):
         nums1 = [1,2,4,5,6,0]
         m = 5
         nums2 = [3]
