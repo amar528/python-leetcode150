@@ -1,5 +1,5 @@
 from unittest import TestCase
-from palindrome_125 import Solution
+from leetcode150.two_pointer.palindrome_125 import Solution
 
 
 class TestSolution(TestCase):
